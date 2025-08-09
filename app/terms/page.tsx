@@ -1,0 +1,1 @@
+export default function Page(){return(<section className='container py-8'><h1 className='text-2xl font-extrabold mb-2'>TERMS</h1><p className='text-neutral-700'>Condições do serviço.</p></section>)}

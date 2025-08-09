@@ -1,0 +1,1 @@
+export default function Cart(){return(<section className='container py-8'><h1 className='text-2xl font-extrabold mb-4'>Carrinho</h1><p>Em breve: itens do carrinho.</p></section>)}

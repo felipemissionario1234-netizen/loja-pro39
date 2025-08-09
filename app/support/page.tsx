@@ -1,0 +1,1 @@
+export default function Page(){return(<section className='container py-8'><h1 className='text-2xl font-extrabold mb-2'>SUPPORT</h1><p className='text-neutral-700'>WhatsApp: (00) 90000-0000 • Email: suporte@seudominio.com</p></section>)}

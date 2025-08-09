@@ -1,0 +1,1 @@
+export default function Checkout(){return(<section className='container py-8'><h1 className='text-2xl font-extrabold mb-2'>Checkout</h1><p>Configure o link do Mercado Pago na página do produto.</p></section>)}
